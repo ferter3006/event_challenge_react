@@ -1,0 +1,15 @@
+svg:hover {
+    cursor: pointer;
+
+}
+
+#cardIcon:active {
+    color: white;
+    background-color: red;
+    border-radius: 10px;
+
+}
+
+body{
+    background-color: rgb(253, 253, 249);
+}
